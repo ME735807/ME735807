@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ME735807
+- 👋 Hi, I’m Maria Eduarda
 - 👀 I’m interested in learn how to code
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on sharing my codes
